@@ -1,0 +1,8 @@
+--2025-03-06 21:29:09--  https://distfiles.gentoo.org/releases/amd64/binpackages/23.0/x86-64/app-editors/nano/nano-8.3-r1-1.gpkg.tar
+Resolving distfiles.gentoo.org... 2a02:6ea0:d100::35, 2a02:6ea0:d100::36, 2a02:6ea0:d100::49, ...
+Connecting to distfiles.gentoo.org|2a02:6ea0:d100::35|:443... failed: Connection timed out.
+Connecting to distfiles.gentoo.org|2a02:6ea0:d100::36|:443... failed: Connection timed out.
+Connecting to distfiles.gentoo.org|2a02:6ea0:d100::49|:443... failed: Connection timed out.
+Connecting to distfiles.gentoo.org|2a02:6ea0:d100::50|:443... failed: Connection timed out.
+Connecting to distfiles.gentoo.org|2a02:6ea0:d100::52|:443... failed: Connection timed out.
+Connecting to distfiles.gentoo.org|2a02:6ea0:d100::53|:443... 
